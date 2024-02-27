@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+
+  padding: 0;
+}
+.section1 {
+  height: 100vh;
+  display: block;
+}
+.details {
+  padding: 30px;
+  display: in;
+  padding-top: 160px;
+  width: 50%;
+}
+.img1 {
+  margin-left: 750px;
+  display: inline;
+  height: 50vh;
+  margin-left: 700px;
+  border-bottom: 1000px;
+  border-radius: 15%;
+}
